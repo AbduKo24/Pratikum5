@@ -38,7 +38,7 @@ for mhs in data_mahasiswa:
 print("="*80)
 ```
 
-## Hasil Pratikum 5
+## Hasil Output Pratikum 5
 
 ```markdown
 Masukkan data mahasiswa:
