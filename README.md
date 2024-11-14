@@ -40,7 +40,7 @@ print("="*80)
 
 ## Hasil Output Pratikum 5
 
-```markdown
+```
 Masukkan data mahasiswa:
 Nama: Muhamad abdu
 NIM: 312410143
