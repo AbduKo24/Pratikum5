@@ -55,7 +55,7 @@ Nama            NIM        Tugas      UTS        UAS        Nilai Akhir
 ================================================================================
 Muhamad abdu    312410143  95.0       97.0       98.0       96.75
 ================================================================================
-
+```
 # Penjelasan Latihan Praktikum 5
 ## Analisis Kode Python untuk Input dan Perhitungan Nilai Mahasiswa
 
